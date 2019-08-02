@@ -48,7 +48,7 @@ let appRouter = function (app) {
         } else if(req.params.character === "all") {
             res.send({"status": "error", "code": "5", "message": "this feature is still to be developed."});
         } else {
-            res.send({"status": "error", "code": "3", "message": "we weren't able to find this character. all character available are: ryuuji, ami, minori, yasuko, kitamura, sumire, nanako, sakura, kota, koji, maya, yuri, all"});
+            res.send({"status": "error", "code": "3", "message": "we weren't able to find this character. all character available are: taiga, ryuuji, ami, minori, yasuko, kitamura, sumire, nanako, sakura, kota, koji, maya, yuri, all"});
         }
     });
     app.get("/api/v1/img_fanart/:character", async (req, res) => {
@@ -82,7 +82,7 @@ let appRouter = function (app) {
         } else if(req.params.character === "all") {
             res.send({"status": "error", "code": "5", "message": "this feature is still to be developed."});
         } else {
-            res.send({"status": "error", "code": "3", "message": "we weren't able to find this character. all character available are: ryuuji, ami, minori, yasuko, kitamura, sumire, nanako, sakura, kota, koji, maya, yuri, all"});
+            res.send({"status": "error", "code": "3", "message": "we weren't able to find this character. all character available are: taiga, ryuuji, ami, minori, yasuko, kitamura, sumire, nanako, sakura, kota, koji, maya, yuri, all"});
         }
 
     });
