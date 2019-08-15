@@ -1,5 +1,6 @@
 let img_original_taiga = require("./img_original/taiga.json");
 let img_fanart_taiga = require("./img_fanart/taiga.json");
+let img_original_ami = require("./img_original/ami.json");
 
 let appRouter = function (app) {
     app.get("/", async (_req, res) => {
@@ -24,7 +25,8 @@ let appRouter = function (app) {
         } else if(req.params.character === "ryuuji") {
             res.send({"status": "error", "code": "4", "message": "this character is currently deactivated. this is mostly caused due to a lack of images."});
         } else if(req.params.character === "ami") {
-            res.send({"status": "error", "code": "4", "message": "this character is currently deactivated. this is mostly caused due to a lack of images."});
+            let json = img_original_ami[Math.floor(Math.random()*img_original_ami.length)];
+            res.send(json);
         } else if(req.params.character === "minori") {
             res.send({"status": "error", "code": "4", "message": "this character is currently deactivated. this is mostly caused due to a lack of images."});
         } else if(req.params.character === "yasuko") {
