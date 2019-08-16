@@ -10,11 +10,11 @@ Read [this](https://github.com/toradorapi/api/blob/master/CONTRIBUTING.md) to le
 ## Original Images (Anime Screenshots)
 | Character | Amount of Images |
 |-----------|------------------|
-| Taiga | 100+ |
+| Taiga | 200+ |
 | Ryuuji | 0 |
 | Minori | 0 |
 | Kitamura | 0 |
-| Ami | 0 |
+| Ami | 90+ |
 | Koji | 0 |
 | Maya | 0 |
 | Nanako | 0 |
