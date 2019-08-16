@@ -8,35 +8,7 @@ Diese Datei wird in der Zukunft erweitert.
 Lese [dies](https://github.com/toradorapi/api/blob/master/CONTRIBUTING.md) um zu erfahren, wie man mitwirken kann.
 
 ## Originale Bilder (Anime Screenshots)
-| Charakter | Anzahl der Bilder |
-|-----------|------------------|
-| Taiga | 100+ |
-| Ryuuji | 0 |
-| Minori | 0 |
-| Kitamura | 0 |
-| Ami | 0 |
-| Koji | 0 |
-| Maya | 0 |
-| Nanako | 0 |
-| Ryuuji | 0 |
-| Sakura | 0 |
-| Sumire | 0 |
-| Yasuko | 0 |
-| Yuri | 0 |
+[Klick](https://github.com/toradorapi/api#original-images-anime-screenshots)
 
 ## Fanarts
-| Charakter | Anzahl der Bilder |
-|-----------|------------------|
-| Taiga | Weniger als 10 |
-| Ryuuji | 0 |
-| Minori | 0 |
-| Kitamura | 0 |
-| Ami | 0 |
-| Koji | 0 |
-| Maya | 0 |
-| Nanako | 0 |
-| Ryuuji | 0 |
-| Sakura | 0 |
-| Sumire | 0 |
-| Yasuko | 0 |
-| Yuri | 0 |
+[Klick](https://github.com/toradorapi/api#fanarts)
