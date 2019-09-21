@@ -1,5 +1,5 @@
 # Toradorapi - API
-English | [German (German)](https://github.com/toradorapi/api/blob/master/README.de.md) | [Português (Portuguese)](https://github.com/toradorapi/api/blob/master/README.pt.md)
+English | [Deutsch](https://github.com/toradorapi/api/blob/master/README.de.md) | [Português](https://github.com/toradorapi/api/blob/master/README.pt.md)
 
 An API providing fanarts, images, information and much much more about the anime "Toradora!"
 This File is going to be expanded in the future.
