@@ -1,5 +1,5 @@
 const axios = require('axios');
-let characters = ["taiga", "ryuuji", "ami", "minori", "yasuko", "kitamura", "sumire", "nanako", "sakura", "kota", "koji", "maya", "yuri"];
+let characters = ["taiga", "ryuuji", "ami", "minori", "yasuko", "kitamura", "sumire", "nanako", "sakura", "kota", "koji", "maya", "yuri", "inko"];
 
 let appRouter = function(app) {
     app.get("/", async (_req, res) => {
